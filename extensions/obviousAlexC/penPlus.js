@@ -6284,3 +6284,4 @@
   //? A small hack to stop the renderer from immediatly dying. And to allow for immediate use
   Scratch.extensions.register(new extension());
 })(Scratch);
+

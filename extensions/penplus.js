@@ -2792,3 +2792,4 @@ Other various small fixes
 
   Scratch.extensions.register(new PenPlus());
 })(Scratch);
+
